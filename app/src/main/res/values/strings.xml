@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Роспатент</string>
+    <string name="title"><b>Роспатент.</b></string>
+    <string name="main_description"><b>Самый простой поиск патентов</b></string>
+    <string name="search">Искать патент</string>
+    <string name="relevance">По релевантности</string>
+    <string name="byDateDown">По дате публикации ↓</string>
+    <string name="byDateUp">По дате публикации ↑</string>
+    <string name="byDatePodDown">По дате подачи заявки ↓</string>
+    <string name="byDatePodUp">По дате подачи заявки ↑</string>
+    <string name="number"><b>Номер заявки:</b></string>
+    <string name="datePublic"><b>Опубликовано:</b></string>
+    <string name="datePod"><b>Дата подачи заявки:</b></string>
+    <string name="ipc"><b>МПК:</b></string>
+    <string name="priority"><b>Приоритетные данные:</b></string>
+    <string name="patene"><b>Патентообладатели:</b></string>
+    <string name="viewUp">Показать больше</string>
+    <string name="description"><b>Описание</b></string>
+    <string name="loadMore">Загрузить еще</string>
+    <string name="analysis">Анализ</string>
+    <string name="load">Загрузка...</string>
+    <string name="loadPohozh">Найти похожие патенты</string>
+    <string name="similar"><b>Похожие патенты:</b></string>
+</resources>
